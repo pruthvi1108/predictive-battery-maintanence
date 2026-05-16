@@ -3,10 +3,6 @@
 
 An AI-powered Smart Battery Management System (BMS) designed for real-time monitoring, anomaly detection, and predictive maintenance of Li-ion battery packs using ROS2, Machine Learning, and IoT technologies.
 
----
-
-# 📸 System Architecture
-
 
 
 ---
